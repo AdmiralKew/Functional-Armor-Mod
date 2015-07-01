@@ -1,0 +1,14 @@
+{
+  "name" : "movenerf5",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "movenerf5.lua"
+  ],
+
+  "animationConfig" : "movenerf.animation",
+
+  "label" : "Mild Agility Decrease",
+  "icon" : "/interface/statuses/haste25.png"
+}

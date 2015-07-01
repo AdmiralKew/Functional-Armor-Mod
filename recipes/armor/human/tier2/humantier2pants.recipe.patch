@@ -1,0 +1,22 @@
+[
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "wire", "count": 8 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "corefragmentore", "count": 2 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "circuitboard", "count": 3 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "money", "count": 500 }
+	}
+]

@@ -1,0 +1,14 @@
+{
+  "name" : "moveboost5",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "moveboost5.lua"
+  ],
+
+  "animationConfig" : "moveboost.animation",
+
+  "label" : "Mild Agility Boost",
+  "icon" : "/interface/statuses/haste25.png"
+}
