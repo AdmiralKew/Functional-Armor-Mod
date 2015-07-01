@@ -6,9 +6,10 @@ Functional Armor Mod for Starbound
 #Todo:
 	- All except Human T1 armor
 #General
- - Made wire and circuit boards craftable in wooden, metal, robotic crafting table.
- - 
-#Human
+ - Made wire and circuit boards craftable in wooden, metal, robotic crafting tables.
+
+#Progressf
+- Human
  - Tier 1:
  	- Head:
  		- Night Vision effect (done)
