@@ -8,7 +8,7 @@ Functional Armor Mod for Starbound
 #General
  - Made wire and circuit boards craftable in wooden, metal, robotic crafting tables.
 
-#Progressf
+#Progress
 - Human
  - Tier 1:
  	- Head:
