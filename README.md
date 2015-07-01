@@ -5,14 +5,17 @@ Functional Armor Mod for Starbound
  
 #Design:
 - Generally, armors are classified as light, medium, or heavy with some armors amplifying speed and jumping ability, health and energy regeneration, damage, etc. based on class, apparent intended use, and racial lore.
-- Human armor is powered armor, and will come with low light/night vision as a basis, and will be powered by core fragments, eventually requiring flesh strands to simulate the artificial muscle built into the suit that augments the wearer and allows the armor to support itself.
+- Light armors emphasize the wearer's agility and increase their energy reserves
+- Heavy armors slow down the wearer, but give them increased resilience, and regenerate the wearer's health. Some may even increase the damage done by their 
+- Medium armors are varied, but generally fall between light and heavy in terms of capability.
+
+Example: Human armor is powered armor, and will come with low light/night vision as a basis, and will be powered by core fragments, eventually requiring flesh strands to simulate the artificial muscle built into the suit that augments the wearer and allows the armor to support itself.
 
 #Todo:
-	- All except Human T1 armor
-
+	- All except Human T1 and T2 armor
 
 #Progress
- - Made wire and circuit boards craftable in wooden, metal, robotic crafting tables. 
+ - Made wire and circuit boards craftable in wooden, metal, robotic crafting tables.
 - Human
 	- Tier 1 (Scouter) Armor:
 		- Head:
