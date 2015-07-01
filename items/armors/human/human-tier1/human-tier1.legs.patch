@@ -1,0 +1,12 @@
+[
+	{
+	"op":"add",
+	"path":"/statusEffects/-",
+	"value":"jumpboost5"
+	},
+	{
+	"op":"add",
+	"path":"/statusEffects/-",
+	"value":"runboost5"
+	}
+]

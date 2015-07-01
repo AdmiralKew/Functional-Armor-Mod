@@ -1,0 +1,11 @@
+{
+  "name" : "FunctionalArmor",
+  "version" : "Alpha",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata": {
+    "author" : "AdmiralKew",
+    "description" : "Functional armors with tweaked recipes.",
+    "version" : "0.1"
+  }
+}

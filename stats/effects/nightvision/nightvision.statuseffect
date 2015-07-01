@@ -1,0 +1,11 @@
+{
+  "name" : "nightvision",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "nightvision.lua"
+  ],
+
+  "animationConfig" : "nightvision.animation"
+}

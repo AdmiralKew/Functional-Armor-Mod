@@ -1,0 +1,17 @@
+[
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "wire", "count": 6 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "circuitboard", "count": 2 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "money", "count": 250 }
+	}
+]
