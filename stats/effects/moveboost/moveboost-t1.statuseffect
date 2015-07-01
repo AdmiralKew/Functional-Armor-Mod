@@ -1,10 +1,10 @@
 {
-  "name" : "moveboost5",
+  "name" : "moveboost5-t1",
   "effectConfig" : {},
   "defaultDuration" : 5,
 
   "scripts" : [
-    "moveboost5.lua"
+    "moveboost-t1.lua"
   ],
 
   "animationConfig" : "moveboost.animation",

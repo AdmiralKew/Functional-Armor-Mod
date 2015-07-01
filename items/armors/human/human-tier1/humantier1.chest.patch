@@ -3,5 +3,10 @@
 	"op":"add",
 	"path":"/statusEffects/-",
 	"value":"energyregen32"
+	},
+	{
+	"op":"add",
+	"path":"/description",
+	"value":"A sleeveless iron plated vest that offers reliable protection. It's rather light so it doesn't slow me down, and the kinetic power pack helps charge my batteries."
 	}
 ]

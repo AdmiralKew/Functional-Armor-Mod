@@ -3,5 +3,10 @@
 	"op":"add",
 	"path":"/statusEffects/-",
 	"value":"nightvision"
+	},
+	{
+	"op":"add",
+	"path":"/description",
+	"value":"This scouter headset features a fancy augmented visor that provides weak low-light visibility."
 	}
 ]
