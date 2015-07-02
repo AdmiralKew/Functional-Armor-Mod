@@ -7,6 +7,11 @@
 	{
 	"op":"add",
 	"path":"/input/-",
+	"value":{ "item": "fabric", "count": 6 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
 	"value":{ "item": "corefragmentore", "count": 5 }
 	},
 	{
@@ -27,7 +32,7 @@
 	{
 	"op":"add",
 	"path":"/input/-",
-	"value":{ "item": "liquidhealing", "count": 30 }
+	"value":{ "item": "liquidhealing", "count": 45 }
 	},
 	{
 	"op":"add",

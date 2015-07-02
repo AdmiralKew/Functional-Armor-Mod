@@ -7,6 +7,16 @@
 	{
 	"op":"add",
 	"path":"/input/-",
+	"value":{ "item": "fabric", "count": 6 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "monsterplating", "count": 2 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
 	"value":{ "item": "corefragmentore", "count": 5 }
 	},
 	{

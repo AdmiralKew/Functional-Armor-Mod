@@ -7,6 +7,11 @@
 	{
 	"op":"add",
 	"path":"/input/-",
+	"value":{ "item": "fabric", "count": 6 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
 	"value":{ "item": "titaniumbar", "count": 3 }
 	},
 	{

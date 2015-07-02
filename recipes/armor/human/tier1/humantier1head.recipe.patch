@@ -7,6 +7,11 @@
 	{
 	"op":"add",
 	"path":"/input/-",
+	"value":{ "item": "fabric", "count": 2 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
 	"value":{ "item": "circuitboard", "count": 1 }
 	},
 	{
