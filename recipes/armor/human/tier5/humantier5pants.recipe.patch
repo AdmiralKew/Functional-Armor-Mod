@@ -12,6 +12,11 @@
 	{
 	"op":"add",
 	"path":"/input/-",
+	"value":{ "item": "fleshstrand", "count": 20 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
 	"value":{ "item": "titaniumbar", "count": 3 }
 	},
 	{

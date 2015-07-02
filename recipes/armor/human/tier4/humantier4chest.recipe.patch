@@ -12,7 +12,7 @@
 	{
 	"op":"add",
 	"path":"/input/-",
-	"value":{ "item": "corefragmentore", "count": 5 }
+	"value":{ "item": "corefragmentore", "count": 8 }
 	},
 	{
 	"op":"add",

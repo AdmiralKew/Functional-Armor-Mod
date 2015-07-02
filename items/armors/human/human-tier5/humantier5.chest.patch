@@ -1,0 +1,17 @@
+[
+	{
+	"op":"add",
+	"path":"/statusEffects/-",
+	"value":"energyregen384"
+	},
+	{
+	"op":"add",
+	"path":"/statusEffects/-",
+	"value":"regeneration2"
+	},
+	{
+	"op":"replace",
+	"path":"/statusEffects/2",
+	"value":{"stat":"maxHealth","amount":150}
+	}
+]

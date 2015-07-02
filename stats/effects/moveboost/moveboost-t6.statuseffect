@@ -1,14 +1,14 @@
 {
-  "name" : "moveboost-t1",
+  "name" : "moveboost-t6",
   "effectConfig" : {},
   "defaultDuration" : 5,
 
   "scripts" : [
-    "moveboost-t1.lua"
+    "moveboost-t6.lua"
   ],
 
   "animationConfig" : "moveboost.animation",
 
-  "label" : "Mild Agility Boost",
+  "label" : "Superhuman Agility Boost",
   "icon" : "/interface/statuses/haste25.png"
 }
