@@ -1,0 +1,12 @@
+[
+	{
+	"op":"add",
+	"path":"/statusEffects/-",
+	"value":"nightvision3"
+	},
+	{
+	"op":"add",
+	"path":"/statusEffects/-",
+	"value":"armorscan"
+	}
+]
