@@ -1,0 +1,27 @@
+[
+	{
+	"op":"add",
+	"path":"/statusEffects/-",
+	"value":"energyregen96"
+	},
+	{
+	"op":"add",
+	"path":"/statusEffects/-",
+	"value":"movenerf5"
+	},
+	{
+	"op":"add",
+	"path":"/statusEffects/-",
+	"value":"regeneration2"
+	},
+	{
+	"op":"replace",
+	"path":"/statusEffects/2",
+	"value":{"stat":"maxHealth","amount":"100"}
+	},
+	{
+	"op":"add",
+	"path":"/description",
+	"value":"The Outrider's chestpiece is made from Durasteel, knitted like kevlar. It has built-in crash treatment gear and a reinforced frame."
+	}
+]

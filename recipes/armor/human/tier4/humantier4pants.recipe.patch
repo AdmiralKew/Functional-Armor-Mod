@@ -1,0 +1,27 @@
+[
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "wire", "count": 12 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "monsterplating", "count": 2 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "corefragmentore", "count": 4 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "circuitboard", "count": 4 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "money", "count": 1000 }
+	}
+]

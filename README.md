@@ -12,55 +12,12 @@ Functional Armor Mod for Starbound
 Example: Human armor is powered armor, and will come with low light/night vision as a basis, and will be powered by core fragments, eventually requiring flesh strands to simulate the artificial muscle built into the suit that augments the wearer and allows the armor to support itself.
 
 #Todo:
-	- All except Human T1 and T2 armor
+- All except Human T1 and T2 armor
 
 #Progress
- - Made wire and circuit boards craftable in wooden, metal, robotic crafting tables.
+- Made wire and circuit boards craftable in wooden, metal, robotic crafting tables.
 - Human
-	- Tier 1 (Scouter) Armor:
-		- Head:
-			- Night Vision effect (done)
-			- New recipe (done)
-				- 3 Iron Bars
-				- 4 Wire
-				- 1 Circuit Board
-				- 100 Pixels
-		- Chest
-			- Mild energy regeneration effect (done)
-			- New Recipe (done)
-				- 5 Iron Bars
-				- 6 Wire
-				- 2 Circuit Board
-				- 250 Pixels
-		- Pants
-			-  Mild jump boost effect (done)
-			-  Mild speed boost effect (done)
-			- New Recipe (done)
-				- 2 Iron Bars
-				- 6 Wire
-				- 2 Circuit Board
-				- 150 Pixels
-	- Tier 2 (Scavenger) Armor:
-        - Effects
-            - More powerful 'night vision'
-            - Better energy regeneration
-            - slight speed, jump debuffs
-        - Updated recipes
-            - Head
-                - 6 Steel Bar
-                - 6 Wire
-                - 2 Circuit Board
-                - 1 Core Fragment
-                - 350 Pixels
-            - Chest
-                - 10 Steel Bars
-                - 10 Wire
-                - 3 Circuit Board
-                - 2 Core Fragment
-                - 750 Pixels
-            - Pants
-                - 4 Steel Bar
-                - 8 Wire
-                - 3 Circuit Board
-                - 2 Core Fragment
-                - 500 Pixels
+	- Tier 1 (Scouter) Armor
+	- Tier 2 (Scavenger) Armor
+	- Tier 3 (Pioneer) Armor
+	- Tier 4 (Outrider) Armor

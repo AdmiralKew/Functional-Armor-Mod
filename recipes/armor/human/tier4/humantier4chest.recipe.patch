@@ -1,0 +1,32 @@
+[
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "wire", "count": 15 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "corefragmentore", "count": 5 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "monsterplating", "count": 3 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "circuitboard", "count": 5 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "liquidhealing", "count": 30 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
+	"value":{ "item": "money", "count": 1550 }
+	}
+]
