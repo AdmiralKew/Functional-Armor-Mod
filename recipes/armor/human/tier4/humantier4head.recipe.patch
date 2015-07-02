@@ -7,6 +7,11 @@
 	{
 	"op":"add",
 	"path":"/input/-",
+	"value":{ "item": "titaniumbar", "count": 1 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
 	"value":{ "item": "corefragmentore", "count": 2 }
 	},
 	{

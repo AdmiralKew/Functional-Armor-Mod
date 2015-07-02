@@ -12,7 +12,8 @@ Functional Armor Mod for Starbound
 Example: Human armor is powered armor, and will come with low light/night vision as a basis, and will be powered by core fragments, eventually requiring flesh strands to simulate the artificial muscle built into the suit that augments the wearer and allows the armor to support itself.
 
 #Todo:
-- All except Human T1 and T2 armor
+- All the armors not listed
+- Armor forging questlines!
 
 #Progress
 - Made wire and circuit boards craftable in wooden, metal, robotic crafting tables.

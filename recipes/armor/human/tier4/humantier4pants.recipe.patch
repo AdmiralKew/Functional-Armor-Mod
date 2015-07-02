@@ -7,6 +7,11 @@
 	{
 	"op":"add",
 	"path":"/input/-",
+	"value":{ "item": "titaniumbar", "count": 3 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
 	"value":{ "item": "monsterplating", "count": 2 }
 	},
 	{

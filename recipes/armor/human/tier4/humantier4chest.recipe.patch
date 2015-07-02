@@ -12,6 +12,11 @@
 	{
 	"op":"add",
 	"path":"/input/-",
+	"value":{ "item": "titaniumbar", "count": 5 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
 	"value":{ "item": "monsterplating", "count": 3 }
 	},
 	{
