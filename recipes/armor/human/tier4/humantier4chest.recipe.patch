@@ -22,7 +22,7 @@
 	{
 	"op":"add",
 	"path":"/input/-",
-	"value":{ "item": "monsterplating", "count": 3 }
+	"value":{ "item": "monsterplating", "count": 4 }
 	},
 	{
 	"op":"add",
