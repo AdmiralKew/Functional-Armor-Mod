@@ -2,11 +2,11 @@
 	{
 	"op":"add",
 	"path":"/statusEffects/-",
-	"value":"moveboost-t5"
+	"value":"energyregen64"
 	},
 	{
 	"op":"add",
 	"path":"/statusEffects/-",
-	"value":"energyregen384"
+	"value":"movenerf5"
 	}
 ]

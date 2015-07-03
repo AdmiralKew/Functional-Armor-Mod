@@ -1,5 +1,5 @@
 {
-  "name" : "nightvision3",
+  "name" : "nightvision2",
   "effectConfig" : {},
   "defaultDuration" : 5,
 
@@ -7,5 +7,5 @@
     "nightvision.lua"
   ],
 
-  "animationConfig" : "nightvision3.animation"
+  "animationConfig" : "nightvision2.animation"
 }

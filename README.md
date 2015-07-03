@@ -22,6 +22,3 @@ Example: Human armor is powered armor, and will come with low light/night vision
 	- Tier 2 (Scavenger) Armor
 	- Tier 3 (Pioneer) Armor
 	- Tier 4 (Outrider) Armor
-	
-##Big Thanks to:
-Kayuko for the scanning script!
