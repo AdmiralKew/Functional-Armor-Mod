@@ -3,11 +3,7 @@ function init()
 end
 
 function update(dt)
-<<<<<<< HEAD
 	scan = world.entityQuery(mcontroller.position(), effect.configParameter("scanRange"))
-=======
-	scan = world.entityQuery(mcontroller.position(), entity.configParameter("scanRange"))
->>>>>>> origin/master
 	for i, entityId in pairs(scan) do
 		scanResult = entityId
 		if world.entityType(scanResult) == "monster" or world.farmableStage(scanResult) ~= nil or world.containerSize(scanResult) ~= nil then

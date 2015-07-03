@@ -42,14 +42,13 @@ end
 
 function recharge()
     status.resource("shieldHealth") += status.stat("shieldHealthRegen")
-end
 	
 	 if status.resource("shieldHealth") >= status.stat("maxShield") then
     animator.setParticleEmitterActive("embers", false)
   else
     animator.setParticleEmitterActive("embers", true)
   end
-
+end
 function selfDamage(notification)
   self.pauseTimer = effect.configParameter("pauseOnDamage", 0)
   if not status.resourcePositive("shieldHealth") then

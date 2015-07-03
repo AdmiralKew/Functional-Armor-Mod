@@ -7,20 +7,12 @@
 	{
 	"op":"add",
 	"path":"/statusEffects/-",
-<<<<<<< HEAD
 	"value":"bubbleshield-t5"
-=======
-	"value":"regeneration4"
->>>>>>> origin/master
 	},
 	{
 	"op":"add",
 	"path":"/statusEffects/-",
-<<<<<<< HEAD
 	"value":"shieldregen"
-=======
-	"value":"bubbleshield-t5"
->>>>>>> origin/master
 	},
 	{
 	"op":"replace",
