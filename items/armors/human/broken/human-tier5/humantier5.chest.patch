@@ -2,29 +2,21 @@
 	{
 	"op":"add",
 	"path":"/statusEffects/-",
-	"value":"regeneration3"
+	"value":"energyregen384"
 	},
 	{
 	"op":"add",
 	"path":"/statusEffects/-",
-<<<<<<< HEAD
-	"value":"bubbleshield-t5"
-=======
 	"value":"regeneration4"
->>>>>>> origin/master
 	},
 	{
 	"op":"add",
 	"path":"/statusEffects/-",
-<<<<<<< HEAD
-	"value":"shieldregen"
-=======
 	"value":"bubbleshield-t5"
->>>>>>> origin/master
 	},
 	{
 	"op":"replace",
 	"path":"/statusEffects/2",
-	"value":{"stat":"maxHealth","amount":50}
+	"value":{"stat":"maxHealth","amount":150}
 	}
 ]

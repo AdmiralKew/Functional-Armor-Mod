@@ -2,14 +2,11 @@
 	{
 	"op":"add",
 	"path":"/statusEffects/-",
-	"value":"moveboost-t5"
-<<<<<<< HEAD
+	"value":"moveboost-t6"
 	},
 	{
 	"op":"add",
 	"path":"/statusEffects/-",
 	"value":"energyregen384"
-=======
->>>>>>> origin/master
 	}
 ]
