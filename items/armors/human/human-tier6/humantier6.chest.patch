@@ -12,11 +12,11 @@
 	{
 	"op":"add",
 	"path":"/statusEffects/-",
-	"value":"shieldregen"
+	"value":"invisible"
 	},
 	{
 	"op":"replace",
 	"path":"/statusEffects/2",
-	"value":{"stat":"maxHealth","amount":50}
+	"value":{"stat":"maxHealth","amount":60}
 	}
 ]

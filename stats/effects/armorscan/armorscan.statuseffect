@@ -1,0 +1,11 @@
+{
+  "name" : "armorscan",
+  "effectConfig" : {
+	  "scanRange" : 150
+  },
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "armorscan2.lua"
+  ]
+}
