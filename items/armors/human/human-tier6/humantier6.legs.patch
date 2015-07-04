@@ -7,6 +7,11 @@
 	{
 	"op":"add",
 	"path":"/statusEffects/-",
+	"value":"nofalldamage"
+	},
+	{
+	"op":"add",
+	"path":"/statusEffects/-",
 	"value":"energyregen384"
 	}
 ]

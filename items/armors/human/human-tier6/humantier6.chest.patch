@@ -12,7 +12,7 @@
 	{
 	"op":"add",
 	"path":"/statusEffects/-",
-	"value":"invisible"
+	"value":"liquidimmunity"
 	},
 	{
 	"op":"replace",
