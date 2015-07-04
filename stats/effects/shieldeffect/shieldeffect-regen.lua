@@ -49,6 +49,7 @@ function recharge()
     animator.setParticleEmitterActive("embers", true)
   end
 end
+
 function selfDamage(notification)
   self.pauseTimer = effect.configParameter("pauseOnDamage", 0)
   if not status.resourcePositive("shieldHealth") then
