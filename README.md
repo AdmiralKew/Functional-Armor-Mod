@@ -14,14 +14,17 @@ Example: Human armor is powered armor, and will come with low light/night vision
 #Todo:
 - All the armors not listed
 - Armor forging questlines!
+- Balancing!
 
 #Progress
 - Made wire and circuit boards craftable in wooden, metal, robotic crafting tables.
+- Proof of concept item and monster highlighter, night vision
 - Human
 	- Tier 1 (Scouter) Armor
 	- Tier 2 (Scavenger) Armor
 	- Tier 3 (Pioneer) Armor
 	- Tier 4 (Outrider) Armor
+	- Tier 5 and 6 Armors
 	
 ##Big Thanks to:
 Kayuko for the scanning script!

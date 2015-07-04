@@ -12,7 +12,7 @@
 	{
 	"op":"add",
 	"path":"/input/-",
-	"value":{ "item": "solariumstar", "count": 6 }
+	"value":{ "item": "solariumstar", "count": 4 }
 	},
 	{
 	"op":"add",

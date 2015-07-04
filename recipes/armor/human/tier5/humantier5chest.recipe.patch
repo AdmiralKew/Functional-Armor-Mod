@@ -12,6 +12,11 @@
 	{
 	"op":"add",
 	"path":"/input/-",
+	"value":{ "item": "solariumstar", "count": 6 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
 	"value":{ "item": "fleshstrand", "count": 30 }
 	},
 	{

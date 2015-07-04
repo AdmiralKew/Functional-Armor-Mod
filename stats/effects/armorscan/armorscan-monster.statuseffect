@@ -1,11 +1,11 @@
 {
-  "name" : "armorscan",
+  "name" : "armorscan-monster",
   "effectConfig" : {
 	  "scanRange" : 150
   },
   "defaultDuration" : 5,
 
   "scripts" : [
-    "armorscan-both.lua"
+    "armorscan-monster.lua"
   ]
 }
