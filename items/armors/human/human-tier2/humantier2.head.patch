@@ -3,5 +3,11 @@
 	"op":"add",
 	"path":"/statusEffects/-",
 	"value":"nightvision2"
+	},
+	{
+	"op":"add",
+	"path":"/statusEffects/-",
+	"value":"armorscan-item"
 	}
+]
 ]

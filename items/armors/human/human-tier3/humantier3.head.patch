@@ -6,6 +6,11 @@
 	},
 	{
 	"op":"add",
+	"path":"/statusEffects/-",
+	"value":"armorscan-both"
+	},
+	{
+	"op":"add",
 	"path":"/description",
 	"value":"The sleek titanium helm of the pioneer comes with night vision equipment."
 	}
