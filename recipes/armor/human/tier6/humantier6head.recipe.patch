@@ -12,6 +12,11 @@
 	{
 	"op":"add",
 	"path":"/input/-",
+	"value":{ "item": "solariumstar", "count": 4 }
+	},
+	{
+	"op":"add",
+	"path":"/input/-",
 	"value":{ "item": "titaniumbar", "count": 2 }
 	},
 	{
